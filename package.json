@@ -1,0 +1,12 @@
+{
+  "name": "com.batuhanyigit.eventbus",
+  "version": "1.0.0",
+  "displayName": "Event Bus",
+  "unity": "2022.1",
+  "dependencies": {
+    "com.unity.test-framework": "1.1.33"
+ },
+  "author": {
+    "name": "Batuhan Yigit"
+  }
+}
